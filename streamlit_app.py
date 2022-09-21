@@ -1,3 +1,3 @@
-import streamline
+import streamlit
 
 streamlit.title('Snowflake Badge 2')
